@@ -13,3 +13,7 @@ h2{
 li.padding{
   padding-left: 20px
 }
+
+p.profile{
+  font-weight: bold;
+}
